@@ -1,0 +1,29 @@
+body{
+	margin:0px 0px 0px 0px;
+	background-image:url('https://wail.es/content/images/2017/05/geometric.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.main-box{
+	background: grey;
+    margin: 20px 0px 20px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 85%;
+    height: 630px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.start{
+	margin: 50px 0px 0px 135px;
+    height: 280px;
+}
+#questionBox{
+	width:100%;
+}
+#pic{
+	height:200px;
+	background-color:white;
+}
